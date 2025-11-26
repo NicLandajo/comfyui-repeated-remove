@@ -16,6 +16,7 @@ The code already contains both nodes on a single folder on your custom_nodes. Ju
 Ultra Nano Tutorial
 
 remove_every: for example if you count 1,2,3,4 and 5 is the same frame as 4, then enter the value 5 on this field
+
 start_from: for example, if frame 1 and 2 are the same, enter 2 on this field
 
 The result should be smooth playback and reduce file size on outputs
