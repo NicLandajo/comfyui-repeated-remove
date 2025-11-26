@@ -28,3 +28,17 @@ Use nodes at the beginning or end of your workflow depending on what you need.
 custom_nodes/RepeatedRemove/__init__.py
 
 no dependencies needed
+
+#
+
+☕︎ Support: A small donation helps! ☕︎ https://buymeacoffee.com/nicolaslandajo
+
+⭐ Star this repository — it’s quick, free, and helps others discover the project
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+
+🪲 Report any bugs you come across
+
+📄 Contribute improvements
+
+#
