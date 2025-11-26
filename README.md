@@ -19,9 +19,9 @@ remove_every: for example if you count 1,2,3,4 and 5 is the same frame as 4, the
 
 start_from: for example, if frame 1 and 2 are the same, enter 2 on this field
 
-The result should be smooth playback and reduce file size on outputs
+The result should be smooth playback and reduce file size on outputs, as well as reduced calculation time on workflows like video to video etc.
 
-Use the nodes at the begenning or end of your workflow depending on what you need.
+Use nodes at the beginning or end of your workflow depending on what you need.
 
 #
 
