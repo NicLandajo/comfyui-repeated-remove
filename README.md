@@ -1,4 +1,4 @@
-# comfyui-RepeatedRemove coming soon
+# comfyui-RepeatedRemove
 
 <img width="1847" height="526" alt="repeated remove super wide" src="https://github.com/user-attachments/assets/0119cd1b-ac4c-4f99-8452-57504ee4794a" />
 
